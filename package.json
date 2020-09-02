@@ -1,13 +1,13 @@
 {
   "name": "@natlibfi/issn-verify",
   "version": "1.0.0",
-  "homepage": "https://github.com/malantonio/issn-verify",
+  "homepage": "https://github.com/malantonio/issn-verify-js",
   "bugs": {
-    "url": "https://github.com/malantonio/issn-verify/issues"
+    "url": "https://github.com/malantonio/issn-verify-js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/malantonio/issn-verify"
+    "url": "https://github.com/malantonio/issn-verify-js"
   },
   "description": "Verify ISSN (International Standard Serial Number)",
   "main": "issnVerify.js",
