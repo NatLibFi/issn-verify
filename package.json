@@ -11,6 +11,9 @@
   },
   "description": "Verify ISSN (International Standard Serial Number)",
   "main": "issnVerify.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "test": "test"
   },
