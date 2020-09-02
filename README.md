@@ -1,6 +1,6 @@
-# issn-verify
+# issn-verify [![NPM Version](https://img.shields.io/npm/v/@natlibfi/issn-verify.svg)](https://npmjs.org/package/@natlibfi/issn-verify)
 
-[![Build Status](https://travis-ci.org/malantonio/issn-verify.svg)](https://travis-ci.org/malantonio/issn-verify)
+**This software is fork of https://github.com/malantonio/issn-verify with updated dependencies**
 
 checks if an issn number is valid with regex and by confirming the check digit. regex and algorithm via [http://en.wikipedia.org/wiki/International\_Standard\_Serial\_Number](http://en.wikipedia.org/wiki/International_Standard_Serial_Number)
 
@@ -36,5 +36,10 @@ if ( issn(test) ) {
 </script>
 ```
 
-## license
-MIT
+## License and copyright
+
+Copyright (c) 2014-2017 **Pasi Tuominen <pasi.tuominen@gmail.com>**
+
+Copyright (c) 2018 **University Of Helsinki (The National Library Of Finland)**
+
+This project's source code is licensed under the terms of **MIT License** or any later version.
