@@ -1,6 +1,14 @@
 {
-  "name": "issn-verify",
+  "name": "@natlibfi/issn-verify",
   "version": "1.0.0",
+  "homepage": "https://github.com/malantonio/issn-verify-js",
+  "bugs": {
+    "url": "https://github.com/malantonio/issn-verify-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malantonio/issn-verify-js"
+  },
   "description": "Verify ISSN (International Standard Serial Number)",
   "main": "issnVerify.js",
   "directories": {
@@ -8,7 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tape": "~3.0.2"
+    "tape": "^5.0.0"
   },
   "scripts": {
     "test": "node test/test.js"
@@ -16,14 +24,13 @@
   "keywords": [
     "issn"
   ],
-  "author": "Adam Malantonio",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/malantonio/issn-verify"
-  },
-  "bugs": {
-    "url": "https://github.com/malantonio/issn-verify/issues"
-  },
-  "homepage": "https://github.com/malantonio/issn-verify"
+  "contributors": [
+    {
+      "name": "Adam Malantonio"
+    },
+    {
+      "name": "The National Library of Finland"
+    }
+  ],
+  "license": "MIT"
 }
