@@ -37,8 +37,7 @@ if ( issn(test) ) {
 ```
 
 ## License and copyright
-
-Copyright (c) 2014-2017 **Pasi Tuominen <pasi.tuominen@gmail.com>**
+**This software is fork of https://github.com/malantonio/issn-verify with updated dependencies**
 
 Copyright (c) 2018, 2023 **University Of Helsinki (The National Library Of Finland)**
 
