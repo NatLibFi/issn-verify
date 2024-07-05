@@ -1,6 +1,6 @@
 {
   "name": "@natlibfi/issn-verify",
-  "version": "1.0.4",
+  "version": "1.0.5-alpha.1",
   "homepage": "https://github.com/malantonio/issn-verify-js",
   "bugs": {
     "url": "https://github.com/malantonio/issn-verify-js/issues"
@@ -18,7 +18,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "tape": "^5.7.5"
+    "tape": "^5.8.1"
   },
   "scripts": {
     "test": "node test/test.js"
